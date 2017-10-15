@@ -20,3 +20,5 @@
 "!help":
   args: 0
   return: "command"
+"!test":
+  return: "This is a test"
