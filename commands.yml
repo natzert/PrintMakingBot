@@ -11,6 +11,8 @@
   return: "The basic outline of an image is printed using a key block. These blocks are typically printed using a black pigment."
 "!color-block":
   return: "Color blocks are used to print a single color. If an image has 6 colors then 6 unique color blocks must be carved."
+"!persuader":
+  return: "Hold on to your butts"
 "!question":
   return: "To submit a question, email twitch@mokuhankan.com and include the word 'question' somewhere in the subject line. Please keep it short. Dave is busy."
 "!shop":
