@@ -17,6 +17,8 @@
   return: "To submit a question, email twitch@mokuhankan.com and include the word 'question' somewhere in the subject line. Please keep it short. Dave is busy."
 "!shop":
   return: "You can purchase some of Dave's prints on his website: http://mokuhankan.com"
+"!book":
+  return: "You can download Dave's ebook here: http://mokuhankan.com/catalogue/0057.php"
 "!patreon":
   return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
 "!bot":
