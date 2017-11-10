@@ -11,6 +11,8 @@
   return: "The basic outline of an image is printed using a key block. These blocks are typically printed using a black pigment."
 "!color-block":
   return: "Color blocks are used to print a single color. If an image has 6 colors then 6 unique color blocks must be carved."
+"!sizing":
+  return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
 "!persuader":
   return: "Hold on to your butts"
 "!owl":
