@@ -17,6 +17,8 @@
   return: "Hold on to your butts"
 "!owl":
   return: "More information about the owl Dave is printing: http://woodblock.com/gift/index.php"
+"!materials":
+  return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
 "!question":
   return: "To submit a question, email twitch@mokuhankan.com and include the word 'question' somewhere in the subject line. Please keep it short. Dave is busy."
 "!shop":
