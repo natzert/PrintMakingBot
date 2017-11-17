@@ -29,8 +29,8 @@
   return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
 "!bot":
   return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
-"!carve":
-  return: "Dave determines the depth to carve based on the length between the lines. If there are small gaps, the depth doesn't need to be big, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
+"!carve-depth":
+  return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
 "!help":
   args: 0
   return: "command"
