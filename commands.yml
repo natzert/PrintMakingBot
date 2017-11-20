@@ -1,10 +1,17 @@
 ---
-"!info":
-  return: "This is a channel about Japanese woodblock print making. Here is a video showing the entire process in a condensed format: https://www.youtube.com/watch?v=-w--FkyOuFQ"
+# Materials
+"!materials":
+  return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
 "!wood":
   return: "Dave carves on cherry wood glued to a plywood core. Cherry is soft enough to easily carve yet still hard enough to be durable over multiple printings."
 "!baren":
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
+"!persuader":
+  return: "Hold on to your butts"
+
+# Process
+"!info":
+  return: "This is a channel about Japanese woodblock print making. Here is a video showing the entire process in a condensed format: https://www.youtube.com/watch?v=-w--FkyOuFQ"
 "!registration":
   return: "Registration marks are used to maintain alignment during the printing process. There is a small 90 degree cutout on the bottom right of the block and another straight cutout on the bottom closer to the left side of the block."
 "!key-block":
@@ -13,24 +20,34 @@
   return: "Color blocks are used to print a single color. If an image has 6 colors then 6 unique color blocks must be carved."
 "!sizing":
   return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
-"!persuader":
-  return: "Hold on to your butts"
-"!owl":
-  return: "More information about the owl Dave is printing: http://woodblock.com/gift/index.php"
-"!materials":
-  return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
+"!carve-depth":
+  return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
+
+# Interact
 "!question":
   return: "To submit a question, email twitch@mokuhankan.com and include the word 'question' somewhere in the subject line. Please keep it short. Dave is busy."
+"!facebook":
+  return: "Follow Dave on Facebook! https://www.facebook.com/mokuhankan/"
+"!fan-page":
+  return: "Join Dave's fan page on Facebook! https://www.facebook.com/groups/314276632382888/"
+"!patreon":
+  return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
+
+# Business
 "!shop":
   return: "You can purchase some of Dave's prints on his website: http://mokuhankan.com"
 "!book":
   return: "You can download Dave's ebook here: http://mokuhankan.com/catalogue/0057.php"
-"!patreon":
-  return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
+
+# Other
+"!owl":
+  return: "More information about the owl Dave is printing: http://woodblock.com/gift/index.php"
+"!ghibli":
+  return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
+
+# Bot
 "!bot":
   return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
-"!carve-depth":
-  return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
 "!help":
   args: 0
   return: "command"
