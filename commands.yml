@@ -30,6 +30,8 @@
   return: "Follow Dave on Facebook! https://www.facebook.com/mokuhankan/"
 "!fan-page":
   return: "Join Dave's fan page on Facebook! https://www.facebook.com/groups/314276632382888/"
+"!discord":
+  return: "Join the unofficial discord here: http://discord.gg/Vk7vd94"
 "!patreon":
   return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
 
