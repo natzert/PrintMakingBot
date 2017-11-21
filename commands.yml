@@ -7,7 +7,7 @@
 "!baren":
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
 "!persuader":
-  return: "Hold on to your butts"
+  return: "Hold on to your butts."
 
 # Process
 "!info":
