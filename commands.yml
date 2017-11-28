@@ -8,6 +8,8 @@
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
 "!persuader":
   return: "Hold on to your butts"
+"!rpg-print"
+  return: "Dave's newest project is a collaboration between him and !jed. It is a new subscription series in which the designs are based on video game humor. The 'Warrior & Blacksmith' print is the first in the series."
 
 # Process
 "!info":
@@ -46,7 +48,11 @@
   return: "More information about the owl Dave is printing: http://woodblock.com/gift/index.php"
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
-
+"!ink-incoming"
+  return: "Riperoni peppeproni."
+"!jed"
+  return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !rpg-print series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
+  
 # Bot
 "!bot":
   return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
