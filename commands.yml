@@ -46,6 +46,10 @@
   return: "More information about the owl Dave is printing: http://woodblock.com/gift/index.php"
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
+"!rpg-print":
+  return: "Dave's newest project is a collaboration between him and !jed. It is a new subscription series in which the designs are based on video game humor. The 'Warrior & Blacksmith' print is the first in the series."
+"!jed":
+  return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !rpg-print series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
 
 # Bot
 "!bot":
