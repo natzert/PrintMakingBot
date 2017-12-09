@@ -51,7 +51,7 @@
 "!jed":
   return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !rpg-print series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
 "!cameron":
-  return: "Cameron is Mokuhankan's new manager from since around October. He is the guy who always pops up an hour into the stream if his train is not late."
+    return: "Cameron is Mokuhankan's new manager from since around October. He is the guy who always pops up an hour into the stream if his train is not late."
 
 # Bot
 "!bot":
