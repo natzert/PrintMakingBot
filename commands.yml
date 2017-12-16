@@ -23,7 +23,7 @@
 "!carve-depth":
   return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
 "!repair":
-  return: "Dave often repairs nicks, dings, and cuts in the blocks. Here is a blog post detailing one such repair job: http://mokuhankan.com/conversations/archives/2017/01/a_new_hasui_print.html"  
+  return: "Dave often repairs nicks, dings, and cuts in the blocks. Here is a blog post detailing one such repair job: http://mokuhankan.com/conversations/archives/2017/01/a_new_hasui_print.html"
 
 # Interact
 "!question":
