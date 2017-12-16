@@ -22,6 +22,8 @@
   return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
 "!carve-depth":
   return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
+"!repair":
+  return: "Dave often repairs nicks, dings, and cuts in the blocks. Here is a blog post detailing one such repair job: http://mokuhankan.com/conversations/archives/2017/01/a_new_hasui_print.html"  
 
 # Interact
 "!question":
@@ -31,7 +33,7 @@
 "!fan-page":
   return: "Join Dave's fan page on Facebook! https://www.facebook.com/groups/314276632382888/"
 "!discord":
-  return: "Join the unofficial discord here: http://discord.gg/Vk7vd94"
+  return: "Join the unofficial discord here: https://discord.gg/Vk7vd94"
 "!patreon":
   return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
 
