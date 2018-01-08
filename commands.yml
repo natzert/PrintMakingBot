@@ -36,6 +36,8 @@
   return: "Join the unofficial discord here: https://discord.gg/Vk7vd94"
 "!patreon":
   return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
+"!youtube":
+  return: "You can find the Mokuhankan YouTube channel at: https://www.youtube.com/user/seseragistudio"
 
 # Business
 "!shop":
