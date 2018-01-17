@@ -38,6 +38,9 @@
   return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
 "!youtube":
   return: "You can find the Mokuhankan YouTube channel at: https://www.youtube.com/user/seseragistudio"
+"!uptime":
+  args: 0
+  return: "command"
 
 # Business
 "!shop":
