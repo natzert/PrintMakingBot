@@ -4,6 +4,8 @@
   return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
 "!wood":
   return: "Dave carves on cherry wood glued to a plywood core. Cherry is soft enough to easily carve yet still hard enough to be durable over multiple printings."
+"!pigment":
+  return: "The printing is done using a mixture of powedered pigments, water, and alcohol."
 "!baren":
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
 "!persuader":
