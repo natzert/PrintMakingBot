@@ -74,6 +74,9 @@
 "!owl":
   return: "These god damn owls.."
   limit: 10
+"!paper":
+  return: "The new paper is still being tested. Be patient."
+  limit: 10
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
   limit: 10
@@ -91,6 +94,9 @@
 "!bot":
   return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
   limit: 10
+"!goodbye":
+  return: "command"
+  args: 1
 "!help":
   args: 0
   limit: 10
