@@ -74,6 +74,9 @@
 "!owl":
   return: "These god damn owls.."
   limit: 10
+"!octopus":
+  return: "Information on the octopus print can be found here: http://theoctopusprint.com"
+  limit: 10
 "!paper":
   return: "The new paper is still being tested. Be patient."
   limit: 10
