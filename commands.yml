@@ -71,6 +71,9 @@
   limit: 10
 
 # Other
+"!movie":
+  return: "Dave and Jed's Ukiyo-e Heroes series was the subject of a film. http://www.imdb.com/title/tt5706420/"
+  limit: 10
 "!owl":
   return: "These god damn owls.."
   limit: 10
