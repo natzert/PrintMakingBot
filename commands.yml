@@ -96,7 +96,7 @@
   return: "Cameron is Mokuhankan's new manager from since around October. He is the guy who always pops up an hour into the stream if his train is not late."
   limit: 10
 "!will":
-  return: "Will is a carpenter and woodblock printmaker who is in Japan to help Dave renovate the ground floor of Mokuhankan. While he's there he's soaking up as much printmaking knowledge as possible."
+  return: "Will is a carpenter helping Dave with some rennovations on Mokuhankan. He is also a woodblock printmaker who has collaborated with Jed in the past. Some of their work can be found here: http://bit.ly/will-jed-tiger"
   limit: 10
 
 # Bot
