@@ -57,6 +57,7 @@
   limit: 10
 "!youtube":
   return: "You can find the Mokuhankan YouTube channel at: https://www.youtube.com/user/seseragistudio"
+  limit: 10
 "!uptime":
   args: 0
   limit: 60
@@ -104,8 +105,9 @@
   return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
   limit: 10
 "!goodbye":
+  args: 0
+  limit: 300
   return: "command"
-  args: 1
 "!help":
   args: 0
   limit: 10
