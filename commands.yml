@@ -12,6 +12,9 @@
 "!baren":
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
   limit: 10
+"!water":
+  return: "The flask of water helps to diffuse the light on Dave's working surface. It makes it easier to see what he is carving."
+  limit: 10
 "!persuader":
   return: "Hold on to your butts."
   limit: 10
