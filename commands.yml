@@ -52,6 +52,9 @@
 "!fan-page":
   return: "Join Dave's fan page on Facebook! https://www.facebook.com/groups/314276632382888/"
   limit: 10
+"!instagram":
+  return: "The Mokuhankan Instagram page can be found at: https://www.instagram.com/mokuhankan/"
+  limit: 10
 "!discord":
   return: "Join the unofficial discord here: https://discord.gg/Vk7vd94"
   limit: 10
