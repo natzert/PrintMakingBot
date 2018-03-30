@@ -103,7 +103,7 @@
   return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !legendary-loot series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
   limit: 10
 "!cameron":
-  return: "Hooray! Cameron is here! We would all be lost without him."
+  return: "Cameron answers your emails and generally helps out around Mokuhankan. We would all be lost without him."
   limit: 10
 
 # Bot
