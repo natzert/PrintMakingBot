@@ -18,6 +18,9 @@
 "!persuader":
   return: "Hold on to your butts."
   limit: 10
+"!splinters":
+  return: "Come on now. Dave is a professional. He doesn't get splinters."
+  limit: 10
 
 # Process
 "!info":
