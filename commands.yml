@@ -67,6 +67,9 @@
 "!youtube":
   return: "You can find the Mokuhankan YouTube channel at: https://www.youtube.com/user/seseragistudio"
   limit: 10
+"!twitch-archive":
+  return: "Dave's streams are now being archived on a separate YouTube channel (maintained by ya_broski): https://www.youtube.com/channel/UCJW2gIqPFnrm3SQbTs31QWQ"
+  limit: 10
 "!uptime":
   args: 0
   limit: 60
