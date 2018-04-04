@@ -79,7 +79,7 @@
 "!book":
   return: "You can download Dave's ebook here: http://mokuhankan.com/catalogue/0057.php"
   limit: 10
- "!print-party":
+"!print-party":
   return: "You can order a Mokuhankan print party at: http://mokuhankan.com/parties/index.php"
   limit: 10
 
