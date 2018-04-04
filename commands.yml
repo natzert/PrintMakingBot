@@ -1,53 +1,76 @@
 ---
-# Materials
-"!materials":
-  return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
-  limit: 10
-"!wood":
-  return: "Dave carves on cherry wood glued to a plywood core. Cherry is soft enough to easily carve yet still hard enough to be durable over multiple printings."
-  limit: 10
-"!pigment":
-  return: "The printing is done using a mixture of powdered pigments, water, and alcohol."
-  limit: 10
+###### Current commands listed by category:
+
+### Bot
+# bot
+# goodbye
+# help
+
+### Business
+# book
+# shop
+
+### Interact
+# discord
+# facebook
+# fan-page
+# instagram
+# patreon
+# question
+# twitch-archive
+# uptime
+# youtube
+
+### Materials
+# baren
+# materials
+# persuader
+# pigment
+# splinters
+# water
+# wood
+
+### Other
+# cameron
+# ghibli
+# jed
+# legendary-loot
+# movie
+# octopus
+# owl
+# paper
+
+### Process
+# carve-depth
+# color-block
+# info
+# key-block
+# registration
+# repair
+# sizing
+
+######
+
 "!baren":
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
   limit: 10
-"!water":
-  return: "The flask of water helps to diffuse the light on Dave's working surface. It makes it easier to see what he is carving."
+"!book":
+  return: "You can download Dave's ebook here: http://mokuhankan.com/catalogue/0057.php"
   limit: 10
-"!persuader":
-  return: "Hold on to your butts."
+"!bot":
+  return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
   limit: 10
-"!splinters":
-  return: "Come on now. Dave is a professional. He doesn't get splinters."
-  limit: 10
-
-# Process
-"!info":
-  return: "This is a channel about Japanese woodblock print making. Here is a video showing the entire process in a condensed format: https://www.youtube.com/watch?v=-w--FkyOuFQ"
-  limit: 10
-"!registration":
-  return: "Registration marks are used to maintain alignment during the printing process. There is a small 90 degree cutout on the bottom right of the block and another straight cutout on the bottom closer to the left side of the block."
-  limit: 10
-"!key-block":
-  return: "The basic outline of an image is printed using a key block. These blocks are typically printed using a black pigment."
-  limit: 10
-"!color-block":
-  return: "Color blocks are used to print a single color. If an image has 6 colors then 6 unique color blocks must be carved."
-  limit: 10
-"!sizing":
-  return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
+"!cameron":
+  return: "Cameron answers your emails and generally helps out around Mokuhankan. We would all be lost without him."
   limit: 10
 "!carve-depth":
   return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
   limit: 10
-"!repair":
-  return: "Dave often repairs nicks, dings, and cuts in the blocks. Here is a blog post detailing one such repair job: http://mokuhankan.com/conversations/archives/2017/01/a_new_hasui_print.html"
+"!color-block":
+  return: "Color blocks are used to print a single color. If an image has 6 colors then 6 unique color blocks must be carved."
   limit: 10
-
-# Interact
-"!question":
-  return: "To submit a question, email twitch@mokuhankan.com and include the word 'question' somewhere in the subject line. Please keep it short. Dave is busy."
+"!discord":
+  return: "Join the unofficial discord here: https://discord.gg/Vk7vd94"
   limit: 10
 "!facebook":
   return: "Follow Dave on Facebook! https://www.facebook.com/mokuhankan/"
@@ -55,63 +78,8 @@
 "!fan-page":
   return: "Join Dave's fan page on Facebook! https://www.facebook.com/groups/314276632382888/"
   limit: 10
-"!instagram":
-  return: "The Mokuhankan Instagram page can be found at: https://www.instagram.com/mokuhankan/"
-  limit: 10
-"!discord":
-  return: "Join the unofficial discord here: https://discord.gg/Vk7vd94"
-  limit: 10
-"!patreon":
-  return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
-  limit: 10
-"!youtube":
-  return: "You can find the Mokuhankan YouTube channel at: https://www.youtube.com/user/seseragistudio"
-  limit: 10
-"!uptime":
-  args: 0
-  limit: 60
-  return: "command"
-"!twitch-archive":
-  return: "Dave's streams are now being archived on a separate YouTube channel (maintained by ya_broski): https://www.youtube.com/channel/UCJW2gIqPFnrm3SQbTs31QWQ"
-  limit: 10
-
-# Business
-"!shop":
-  return: "You can purchase some of Dave's prints on his website: http://mokuhankan.com"
-  limit: 10
-"!book":
-  return: "You can download Dave's ebook here: http://mokuhankan.com/catalogue/0057.php"
-  limit: 10
-
-# Other
-"!movie":
-  return: "Dave and Jed's Ukiyo-e Heroes series was the subject of a film. http://www.imdb.com/title/tt5706420/"
-  limit: 10
-"!owl":
-  return: "These god damn owls.."
-  limit: 10
-"!octopus":
-  return: "Information on the octopus print can be found here: http://theoctopusprint.com"
-  limit: 10
-"!paper":
-  return: "The old paper supplier has been having issues maintaining consistent quality. The new supplier is more consistent but the paper is (so far) inappropriate for printing. Dave is doing some ongoing testing to see if the new supplier is a viable option."
-  limit: 10
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
-  limit: 10
-"!legendary-loot":
-  return: "Dave's newest project is a collaboration between him and !jed. It is a new subscription series in which the designs are based on video game humor. The 'Warrior & Blacksmith' print is the first in the series. Link: http://mokuhankan.com/legendary_loot/"
-  limit: 10
-"!jed":
-  return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !legendary-loot series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
-  limit: 10
-"!cameron":
-  return: "Cameron answers your emails and generally helps out around Mokuhankan. We would all be lost without him."
-  limit: 10
-
-# Bot
-"!bot":
-  return: "Changes to this bot can be proposed by creating a new issue or submitting a pull request here: https://github.com/natzert/PrintMakingBot"
   limit: 10
 "!goodbye":
   args: 0
@@ -121,3 +89,76 @@
   args: 0
   limit: 10
   return: "command"
+"!info":
+  return: "This is a channel about Japanese woodblock print making. Here is a video showing the entire process in a condensed format: https://www.youtube.com/watch?v=-w--FkyOuFQ"
+  limit: 10
+"!instagram":
+  return: "The Mokuhankan Instagram page can be found at: https://www.instagram.com/mokuhankan/"
+  limit: 10
+"!jed":
+  return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !legendary-loot series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
+  limit: 10
+"!key-block":
+  return: "The basic outline of an image is printed using a key block. These blocks are typically printed using a black pigment."
+  limit: 10
+"!legendary-loot":
+  return: "Dave's newest project is a collaboration between him and !jed. It is a new subscription series in which the designs are based on video game humor. The 'Warrior & Blacksmith' print is the first in the series. Link: http://mokuhankan.com/legendary_loot/"
+  limit: 10
+"!materials":
+  return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
+  limit: 10
+"!movie":
+  return: "Dave and Jed's Ukiyo-e Heroes series was the subject of a film. http://www.imdb.com/title/tt5706420/"
+  limit: 10
+"!octopus":
+  return: "Information on the octopus print can be found here: http://theoctopusprint.com"
+  limit: 10
+"!owl":
+  return: "These god damn owls.."
+  limit: 10
+"!paper":
+  return: "The old paper supplier has been having issues maintaining consistent quality. The new supplier is more consistent but the paper is (so far) inappropriate for printing. Dave is doing some ongoing testing to see if the new supplier is a viable option."
+  limit: 10
+"!patreon":
+  return: "You can help support Dave's work by becoming a patron at https://www.patreon.com/mokuhankan"
+  limit: 10
+"!persuader":
+  return: "Hold on to your butts."
+  limit: 10
+"!pigment":
+  return: "The printing is done using a mixture of powdered pigments, water, and alcohol."
+  limit: 10
+"!question":
+  return: "To submit a question, email twitch@mokuhankan.com and include the word 'question' somewhere in the subject line. Please keep it short. Dave is busy."
+  limit: 10
+"!registration":
+  return: "Registration marks are used to maintain alignment during the printing process. There is a small 90 degree cutout on the bottom right of the block and another straight cutout on the bottom closer to the left side of the block."
+  limit: 10
+"!repair":
+  return: "Dave often repairs nicks, dings, and cuts in the blocks. Here is a blog post detailing one such repair job: http://mokuhankan.com/conversations/archives/2017/01/a_new_hasui_print.html"
+  limit: 10
+"!sizing":
+  return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
+  limit: 10
+"!shop":
+  return: "You can purchase some of Dave's prints on his website: http://mokuhankan.com"
+  limit: 10
+"!splinters":
+  return: "Come on now. Dave is a professional. He doesn't get splinters."
+  limit: 10
+"!twitch-archive":
+  return: "Dave's streams are now being archived on a separate YouTube channel (maintained by ya_broski): https://www.youtube.com/channel/UCJW2gIqPFnrm3SQbTs31QWQ"
+  limit: 10
+"!uptime":
+  args: 0
+  limit: 60
+  return: "command"
+"!water":
+  return: "The flask of water helps to diffuse the light on Dave's working surface. It makes it easier to see what he is carving."
+  limit: 10
+"!wood":
+  return: "Dave carves on cherry wood glued to a plywood core. Cherry is soft enough to easily carve yet still hard enough to be durable over multiple printings."
+  limit: 10
+"!youtube":
+  return: "You can find the Mokuhankan YouTube channel at: https://www.youtube.com/user/seseragistudio"
+  limit: 10
