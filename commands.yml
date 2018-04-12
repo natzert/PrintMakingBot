@@ -105,11 +105,16 @@
 "!legendary-loot":
   return: "Dave's newest project is a collaboration between him and !jed. It is a new subscription series in which the designs are based on video game humor. The 'Warrior & Blacksmith' print is the first in the series. Link: http://mokuhankan.com/legendary_loot/"
   limit: 10
+
+# People
 "!jed":
   return: "Jed Henry is the designer of the 'Ukiyo-e Heroes' and 'Boss Fights' series, as well as the Yokai series and the new !legendary-loot series. Check out his work at: https://www.facebook.com/UkiyoEHeroes/"
   limit: 10
 "!cameron":
   return: "Cameron answers your emails and generally helps out around Mokuhankan. We would all be lost without him."
+  limit: 10
+"!shiba-san":
+  return: "Ayumi Shiba is one of the young ladies working at Mokuhankan. She also creates her own work from concept, through design, and all the carving and printing herself. Check out her work at: https://mokuhankan.com/catalogue/AS04.php"
   limit: 10
 
 # Bot
