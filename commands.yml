@@ -15,6 +15,9 @@
 "!water":
   return: "The flask of water helps to diffuse the light on Dave's working surface. It makes it easier to see what he is carving."
   limit: 10
+"!coat":
+  return: "The paper coating consists of a mixture of water, Nikawa glue and alum. The ratio is 1L water, 50g glue and the alum equals 15% the amount of glue. The glue is varied by about +-10 grams depending on whether it's winter/summer."
+  limit: 10
 "!persuader":
   return: "Hold on to your butts."
   limit: 10
@@ -36,7 +39,7 @@
   return: "Color blocks are used to add color to a print. Each block can add one or more colors with each impression. Color blocks that overlap can layer pigments so that there are more colors in the final print than the number of blocks used."
   limit: 10
 "!sizing":
-  return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
+  return: "Before the paper is prepared for printing it must be sized. A !coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
   limit: 10
 "!carve-depth":
   return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
