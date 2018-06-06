@@ -111,6 +111,9 @@
 "!cameron":
   return: "Cameron answers your emails and generally helps out around Mokuhankan. We would all be lost without him."
   limit: 10
+"!shiba-san":
+  return: "Ayumi Shiba is one of the young ladies working at Mokuhankan. She also creates her own work from concept, through design, and all the carving and printing herself. Check out her work at: https://mokuhankan.com/catalogue/AS04.php"
+  limit: 10
 "!thanks":
   return: "Thank you Dave, very cool!"
   limit: 10
