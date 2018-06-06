@@ -111,6 +111,9 @@
 "!cameron":
   return: "Cameron answers your emails and generally helps out around Mokuhankan. We would all be lost without him."
   limit: 10
+"!thanks":
+  return: "Thank you Dave, very cool!"
+  limit: 10
 
 # Bot
 "!bot":
