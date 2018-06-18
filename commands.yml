@@ -90,7 +90,7 @@
 "!movie":
   return: "Dave and Jed's Ukiyo-e Heroes series was the subject of a film. http://www.imdb.com/title/tt5706420/"
   limit: 10
-"!owls":
+"!owl":
   args: 0
   limit: 300
   return: "command"
