@@ -96,7 +96,7 @@
   return: "command"
 "!more_owls":
   args: 0
-  limit: 300
+  limit: 10
   return: "command"
 "!octopus":
   return: "Information on the octopus print can be found here: http://theoctopusprint.com"
