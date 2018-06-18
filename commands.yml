@@ -90,9 +90,10 @@
 "!movie":
   return: "Dave and Jed's Ukiyo-e Heroes series was the subject of a film. http://www.imdb.com/title/tt5706420/"
   limit: 10
-"!owl":
-  return: "These god damn owls.."
-  limit: 10
+"!owls":
+  args: 0
+  limit: 300
+  return: "command"
 "!octopus":
   return: "Information on the octopus print can be found here: http://theoctopusprint.com"
   limit: 10
