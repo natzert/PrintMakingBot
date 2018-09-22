@@ -21,6 +21,9 @@
 "!splinters":
   return: "Come on now. Dave is a professional. He doesn't get splinters."
   limit: 10
+"!paste":
+  return: "Rice paste is used on almost every impression of a print. Without it, the pigment mix is too watery and won't print smoothly. Paste is also used when printing the keyblock, albeit to a lesser extent, since too much paste on that block would cause it to fill up between places where the lines are close together."
+  limit: 10
 
 # Process
 "!info":
