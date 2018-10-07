@@ -105,7 +105,7 @@
   return: "Information on the octopus print can be found here: http://theoctopusprint.com"
   limit: 10
 "!paper":
-  return: "The old paper supplier has been having issues maintaining consistent quality. The new supplier is more consistent but the paper is (so far) inappropriate for printing. Dave is doing some ongoing testing to see if the new supplier is a viable option."
+  return: "The paper Dave uses is called washi. It is made traditionally by hand using mulberry fibre."
   limit: 10
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
