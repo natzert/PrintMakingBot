@@ -24,6 +24,12 @@
 "!paste":
   return: "Rice paste is used on almost every impression of a print. Without it, the pigment mix is too watery and won't print smoothly. Paste is also used when printing the keyblock, albeit to a lesser extent, since too much paste on that block would cause it to fill up between places where the lines are close together."
   limit: 10
+"!paper":
+  return: "The paper Dave uses is called washi. It is made traditionally by hand using mulberry fibre."
+  limit: 10
+"!gampi":
+  return: "Gampi paper is used to transfer the image to the block. Dave glues it to ordinary copy paper so it is sturdy enough to be passed through a laser printer."
+  limit: 10
 
 # Process
 "!info":
@@ -103,9 +109,6 @@
   return: "command"
 "!octopus":
   return: "Information on the octopus print can be found here: http://theoctopusprint.com"
-  limit: 10
-"!paper":
-  return: "The paper Dave uses is called washi. It is made traditionally by hand using mulberry fibre."
   limit: 10
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
