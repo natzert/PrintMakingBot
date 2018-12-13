@@ -128,6 +128,9 @@
 "!thanks":
   return: "Thank you Dave, very cool!"
   limit: 10
+"!wiggle_it":
+  return: "Just a little bit"
+  limit: 10
 
 # Bot
 "!bot":
