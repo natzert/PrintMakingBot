@@ -30,6 +30,9 @@
 "!gampi":
   return: "Gampi paper is used to transfer the image to the block. Dave glues it to ordinary copy paper so it is sturdy enough to be passed through a laser printer."
   limit: 10
+"!nagura":
+  return: "Before sharpening his blades, Dave likes to rub a nagura block on the sharpening stones. The slurry helps to create a better contact surface between the blade and sharpening stone."
+  limit: 10
 
 # Process
 "!info":
