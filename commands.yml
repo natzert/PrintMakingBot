@@ -4,7 +4,7 @@
   return: "Information on the materials used in the print making process can be found here: http://woodblock.com/encyclopedia/topics/toc_tools_and_materials.html"
   limit: 10
 "!wood":
-  return: "Dave carves on cherry wood glued to a plywood core. Cherry is soft enough to easily carve yet still hard enough to be durable over multiple printings."
+  return: "Dave carves on cherry wood glued to a plywood core. Cherry is soft enough to easily carve yet still hard enough to be durable over multiple printings. Occasionally, for very detailed carving, Dave uses harder boxwood."
   limit: 10
 "!pigment":
   return: "The printing is done using a mixture of powdered pigments, water, and alcohol."
