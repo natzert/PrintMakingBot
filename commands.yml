@@ -34,7 +34,7 @@
   return: "Before sharpening his blades, Dave likes to rub a nagura block on the sharpening stones. The slurry helps to create a better contact surface between the blade and sharpening stone."
   limit: 10
 "!scope":
-  return: "The scope is a Meiji EMZ5 binocular microscope, like those used to examine circuit boards. Dave uses an accessory lens that reduces the magnification by 0.5X (which also increases the field of view). The main effect is to bring the work closer to the eyes without having to slump over. Dave started using the scope while he was producing his 'Beauties of Four Season' series, to help with the fine hair carving, and hasn't looked back! (Not to mention that fact that in recent years his eyesight has begun to fail, and having the scope is going to extend his working career at least a few years, it seems.)"
+  return: "The scope is a Meiji EMZ5 binocular microscope, like those used to examine circuit boards. Dave uses an accessory lens that reduces the magnification by 0.5X (which also increases the field of view). The main effect is to bring the work closer to the eyes without having to slump over. Dave started using the scope while he was producing his 'Beauties of Four Season' series, to help with the fine hair carving, and hasn't looked back!"
   limit: 10
 
 # Process
