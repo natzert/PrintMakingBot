@@ -33,6 +33,9 @@
 "!nagura":
   return: "Before sharpening his blades, Dave likes to rub a nagura block on the sharpening stones. The slurry helps to create a better contact surface between the blade and sharpening stone."
   limit: 10
+"!scope":
+  return: "The scope is a Meiji EMZ5 binocular microscope, like those used to examine circuit boards. Dave uses an accessory lens that reduces the magnification by 0.5X (which also increases the field of view). The main effect is to bring the work closer to the eyes without having to slump over. Dave started using the scope while he was producing his 'Beauties of Four Season' series, to help with the fine hair carving, and hasn't looked back! (Not to mention that fact that in recent years his eyesight has begun to fail, and having the scope is going to extend his working career at least a few years, it seems.)"
+  limit: 10
 
 # Process
 "!info":
@@ -50,11 +53,17 @@
 "!sizing":
   return: "Before the paper is prepared for printing it must be sized. A coat is added to the top side to allow the pigments to stick to the paper uniformly. Another is added to the back to protect the surface and facilitate the rubbing by the baren. Read more about this here: http://woodblock.com/encyclopedia/entries/016_02/016_02.html"
   limit: 10
-"!carve-depth":
-  return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't hit the base of the woodblock."
+"!depth":
+  return: "Dave determines the depth to carve based on the distance between lines. If there are small gaps, the depth doesn't need to be deep, but if there are large gaps, he will carve a depth up to 4mm. This is to make sure the paper doesn't touch the wrong part of the wood and get pigment where it should not."
   limit: 10
 "!repair":
   return: "Dave often repairs nicks, dings, and cuts in the blocks. Here is a blog post detailing one such repair job: http://mokuhankan.com/conversations/archives/2017/01/a_new_hasui_print.html"
+  limit: 10
+"!embossing":
+  return: "As the last step before preparing the prints for shipment, Dave embosses the names of the carver and printer into the white border. To do this he uses a polymer plate carrying the correct names combination that he orders from a regular print-shop. He moistens this area slightly for the embossing to work."
+  limit: 10
+"!sharpen":
+  return: "Dave sharpens all of his tools himself almost daily. Sometimes he sharpens his knife on the stream."
   limit: 10
 
 # Interact
@@ -100,6 +109,26 @@
 "!print-party":
   return: "You can order a Mokuhankan print party at: http://mokuhankan.com/parties/index.php"
   limit: 10
+"!interns":
+  return: "Dave doesn't offer internships/training, but occasionally he will allow someone who is already producing woodblock prints to work for a while in the Mokuhankan workshop."
+  limit: 10
+"!imperfect":
+  return: "Mokuhankan does not sell or give away the prints that end up with defects. Neither the designer, the craftspeople, nor Dave himself wants those prints out in the world. This is the same as with any manufacturing business - a certain percentage of the products simply don't make it through all the way to the end. Don't lose any sleep over this, please."
+  limit: 10
+
+# Japan
+"!faces":
+  return: "The pictures you see on the lampposts are old Japanese comedians who became famous while working in the theaters that were located along this street."
+  limit: 10
+
+# Streams
+"!streetcam":
+  return: "The camera in the lower left corner shows the street in front of the shop. Sometimes it points east, toward Senso-ji Buddhist temple and Tokyo Skytree, and sometimes it points west, toward the Don Quijote store down the street."
+  limit: 10
+"!print-stream":
+  return: "Printing is a little harder to do on-stream than carving, because timing is really important. The paper and block need to be at the optimal moisture content to achieve a good impression, and it's too easy while streaming to get distracted and let something dry out too much. That said, it does happen sometimes!"
+  limit: 10
+
 
 # Other
 "!movie":
@@ -133,6 +162,21 @@
   limit: 10
 "!thanks":
   return: "Thank you Dave, very cool!"
+  limit: 10
+"!japan-since":
+  return: "Dave has lived in Japan since 1986."
+  limit: 10
+"!japanese":
+  return: "Dave speaks workable Japanese."
+  limit: 10
+"!twitch-since":
+  return: "Dave has been streaming on Twitch since August 2017."
+  limit: 10
+"!origin":
+  return: "You can learn more about Dave's origin story in this video: https://www.youtube.com/watch?v=2L3M7isGQbg"
+  limit: 10
+"!myst":
+  return: "Dave used to play Myst with his daughters, so Jed (designer of many of the prints Dave makes) sent him the shirt as a gift a few years ago."
   limit: 10
 
 # Bot
